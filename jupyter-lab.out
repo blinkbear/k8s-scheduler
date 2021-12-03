@@ -1,0 +1,18 @@
+nohup: ignoring input
+[I 2021-07-05 06:05:51.028 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-07-05 06:05:51.242 ServerApp] nbclassic | extension was successfully linked.
+[W 2021-07-05 06:05:51.267 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2021-07-05 06:05:51.272 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-07-05 06:05:51.273 LabApp] JupyterLab extension loaded from /root/miniconda3/envs/k8s/lib/python3.9/site-packages/jupyterlab
+[I 2021-07-05 06:05:51.273 LabApp] JupyterLab application directory is /root/miniconda3/envs/k8s/share/jupyter/lab
+[I 2021-07-05 06:05:51.277 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-07-05 06:05:51.278 ServerApp] Serving notebooks from local directory: /home/lucz/k8s-scheduler
+[I 2021-07-05 06:05:51.278 ServerApp] Jupyter Server 1.9.0 is running at:
+[I 2021-07-05 06:05:51.278 ServerApp] http://crack-bedbug:8888/lab
+[I 2021-07-05 06:05:51.278 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2021-07-05 06:05:51.278 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2021-07-05 06:05:51.282 ServerApp] No web browser found: could not locate runnable browser.
+[I 2021-07-05 06:06:01.396 ServerApp] 302 GET / (127.0.0.1) 1.42ms
+[I 2021-07-05 06:06:04.164 LabApp] Build is up to date
+[I 2021-07-05 06:06:05.235 ServerApp] Kernel started: bc845b0d-3ee1-4ee1-9881-8a0e9917a0c3
+[I 2021-07-05 06:07:26.653 ServerApp] Starting buffering for bc845b0d-3ee1-4ee1-9881-8a0e9917a0c3:f0b8e283-00a2-45b0-8672-d3a95881e97f

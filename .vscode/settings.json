@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/root/miniconda3/envs/k8s/bin/python",
+    "python.formatting.provider": "autopep8"
+}
